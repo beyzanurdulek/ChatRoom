@@ -1,0 +1,54 @@
+# -------------------------
+# Visual Studio (user/cache)
+# -------------------------
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# -------------------------
+# Build output (C/C++)
+# -------------------------
+Debug/
+Release/
+x64/
+x86/
+ipch/
+[Bb]in/
+[Oo]bj/
+
+*.obj
+*.pdb
+*.ilk
+*.tlog
+*.ipch
+*.log
+*.idb
+*.iobj
+*.ipdb
+
+# Optional: ignore built binaries (recommended)
+*.exe
+*.dll
+*.lib
+*.exp
+
+# -------------------------
+# CMake (if ever used)
+# -------------------------
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# -------------------------
+# App logs
+# -------------------------
+logs/
+
+# -------------------------
+# Windows junk
+# -------------------------
+Thumbs.db
+Desktop.ini
