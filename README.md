@@ -30,7 +30,7 @@ Projede mesajların bozulmaması için sadece `send/recv` dönüş değerleri de
 4. IP/Port gibi ayarlar `server.cpp` ve `client.cpp` içinde tanımlıdır. (Gerekirse localhost için 127.0.0.1 kullanılabilir.)
 
 ---
-## Repo Notu (Neleri paylaşmıyoruz?)
+## Repo Notu 
 
 Bu repo sadece kaynak kodu içerir. Derleme çıktıları ve kullanıcıya özel dosyalar `.gitignore` ile hariç tutulmalıdır:
 - `.vs/`, `x64/`, `Debug/Release`, `*.vcxproj.user`, `*.obj`, `*.pdb`, `logs/` vb.
